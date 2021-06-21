@@ -877,7 +877,7 @@ header .navbar-light .navbar-nav .dropdown-menu li .dropdown-item:focus {
 
 @media (max-width: 1400px) {
     .contact-banner {
-        min-height: 420px;
+        min-height: 720px;
     }
     .main-inner-banner {
         height: 100%;
@@ -1087,7 +1087,7 @@ header .navbar-light .navbar-nav .dropdown-menu li .dropdown-item:focus {
         background-position: center;
     }
     .contact-banner {
-        min-height: 240px;
+        min-height: 720px;
     }
     .footer ul {
         -webkit-column-count: 1;
