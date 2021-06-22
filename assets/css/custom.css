@@ -875,9 +875,9 @@ header .navbar-light .navbar-nav .dropdown-menu li .dropdown-item:focus {
     }
 }
 
-@media (max-width: 1400px) {
+@media (max-width: 1366px) {
     .contact-banner {
-        min-height: 720px;
+        min-height: 768px;
     }
     .main-inner-banner {
         height: 100%;
